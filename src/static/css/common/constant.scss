@@ -1,0 +1,29 @@
+// 移动端
+$appMedia: 700;
+
+// PC端
+$pcMedia: 1000;
+
+
+////////////////////////////////
+@mixin w-common{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+$w-common: 1200px;  
+
+$c-fff: #fff;
+$c-eee: #eee;
+$c-ccc: #ccc;
+$c-ddd: #ddd;
+$c-333: #333;
+$c-666: #666;
+
+
+
+
+
+$hover-color: #f8691d;
+$hover-bg: #80ffff;
+
